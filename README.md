@@ -5,4 +5,4 @@
 ***
 Ниже представлен пример работы:<br><br>
 ![Preview](preview.png) <br>
-[Видеофрагмент](https://www.youtube.com/watch?v=39A0twLvKpg&feature=youtu.be)
+[Видеофрагмент](https://youtu.be/crsGMR1ULCQ)
